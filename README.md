@@ -1,16 +1,13 @@
-### Hi there 👋
+ ###### *Hey, there! My name is Bruna, I'm a Back-End Developer. Currently graduating from Analysis and Systems development.*
 
-<!--
-**brunaerolim/brunaerolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages and tools 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="80" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="50" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="58" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="68" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="66" />
+
+
+
+<div>
+<a href="https://github.com/brunaerolim">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunaerolim&show_icons=true&theme=graywhite"/>
+</div>
